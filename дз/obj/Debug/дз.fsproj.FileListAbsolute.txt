@@ -1,0 +1,10 @@
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\дз\дз\bin\Debug\дз.exe.config
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\дз\дз\bin\Debug\дз.XML
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\дз\дз\bin\Debug\дз.exe
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\дз\дз\bin\Debug\дз.pdb
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\дз\дз\bin\Debug\FSharp.Core.dll
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\дз\дз\bin\Debug\System.ValueTuple.dll
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\дз\дз\bin\Debug\FSharp.Core.xml
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\дз\дз\bin\Debug\ru\FSharp.Core.resources.dll
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\дз\дз\obj\Debug\дз.exe
+c:\users\cveto\onedrive\документы\visual studio 2017\Projects\дз\дз\obj\Debug\дз.pdb
